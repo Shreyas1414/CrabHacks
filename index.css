@@ -1,8 +1,11 @@
-.title{
-    
+.body{
+    text-align: center;
 }
 
 p {
-    color : green;
+    color : blue;
 }
 
+img {
+    width: 200px;
+}
